@@ -67,3 +67,11 @@ body::before {
     transform: translateY(-50%);
     top: 50%;
 }
+
+.left-arrow {
+    left: calc(15vw - 4.0625rem);
+}
+
+.right-arrow {
+    right: calc(15vw - 4.0625rem);
+}

@@ -39,3 +39,7 @@ body::before {
     position: relative;
     overflow: hidden;
 }
+
+.slide {
+    opacity: 0;
+}

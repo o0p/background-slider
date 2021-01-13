@@ -43,3 +43,7 @@ body::before {
 .slide {
     opacity: 0;
 }
+
+.slide:active {
+    opacity: 1;
+}

@@ -66,6 +66,7 @@ body::before {
     transform: translateY(-50%);
     top: 50%;
     color: white;
+    cursor: pointer;
 }
 
 .arrow:focus {
